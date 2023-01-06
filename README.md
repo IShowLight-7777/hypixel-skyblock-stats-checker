@@ -12,5 +12,5 @@ reminder it shows you need to give access to discord do not be alarmed as someti
 step 2: once you logged in it should show something like "Microsoft Successfully Authenticated"  
 that means you are now using your microsoft/discord account to track your stats
   
-step 3: once all of the above steps are completed go to https://me.hypizelsbstatz.rf.gd  
+step 3: once all of the above steps are completed go to http://me.hypizelsbstatz.rf.gd  
 then you can see your skyblock networth and etc
